@@ -1,14 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "name": "bayeNFT",
+    "img_url": "https://i.seadn.io/gae/x_rYSCSZUZh5zEm08T7DS6prsoj95wAEGAyfxgANFvcr_p8y31_WolwEWLM77HUeD5dTUttmC28jgc4I8gitn2xAXqWhPy0rJhor8g?auto=format&dpr=1&w=1000"
 }
