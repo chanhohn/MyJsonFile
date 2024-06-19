@@ -1,4 +1,19 @@
 {
-    "name": "bayeNFT",
-    "img_url": "https://i.seadn.io/gae/x_rYSCSZUZh5zEm08T7DS6prsoj95wAEGAyfxgANFvcr_p8y31_WolwEWLM77HUeD5dTUttmC28jgc4I8gitn2xAXqWhPy0rJhor8g?auto=format&dpr=1&w=1000"
+    "name": "Hazel NFT",
+    "description": "An exclusive digital artwork created by Hazel",
+    "image": "https://my-json-server.typicode.com/Hazel/My-NFT/image/1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Size",
+            "value": "Large"
+        }
+    ]
 }
